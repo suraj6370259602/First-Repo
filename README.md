@@ -1,2 +1,2 @@
 # "First repo"
-I love :coffe: , :egg: , :dancer:.
+I love :coffee: , :egg: , :dancer:.
